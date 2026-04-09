@@ -27,7 +27,7 @@ En lugar de buscar exámenes de prueba estáticos en internet, puedes utilizar u
 Este proyecto es totalmente "Serverless" (sin servidor) y no requiere instalación de dependencias.
 
 * **Uso local:** Descarga el archivo `index.html` y ábrelo en cualquier navegador web.
-* **Uso web (Live Demo):** Puedes acceder a la versión desplegada gratuitamente mediante GitHub Pages aquí: `[INSERTA_AQUÍ_TU_ENLACE_DE_GITHUB_PAGES]`
+* **Uso web (Live Demo):** Puedes acceder a la versión desplegada gratuitamente mediante GitHub Pages aquí: https://github.com/lonsochico/practitioner-review.md.git
 
 ## 🛠️ Tecnologías y Arquitectura
 * **Frontend:** HTML5 semántico, CSS3 (Variables, Flexbox, UI Responsiva) y Vanilla JavaScript (ES6+).
